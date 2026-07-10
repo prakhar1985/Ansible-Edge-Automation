@@ -42,8 +42,8 @@ spec:
     duration_min: 20
   title: Ansible Edge Automation Lab
 stage:
-  current: intake
-  entered_at: ''
+  current: review
+  entered_at: 2026-07-10 20:37
 tracking:
   pause_reason: null
   paused: false
